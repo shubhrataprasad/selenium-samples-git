@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test" preserve-order="false">
+    <classes>
+      <class name="com.apex.samples.core.ApexBaseChromeTest"/>
+      <class name="com.apex.samples.core.ApexBaseTest"/>
+      <class name="com.apex.samples.ECommerceLoginPageTest"/>
+      <class name="com.apex.samples.GoogleSearchTest"/>
+    </classes>
+  </test> <!-- Command line test -->
+</suite> <!-- Failed suite [Command line suite] -->
